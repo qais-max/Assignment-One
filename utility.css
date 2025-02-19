@@ -36,3 +36,6 @@
 .border{
   border: 1px solid black;
 }
+.dcol{
+  flex-direction: column;
+}
